@@ -10,11 +10,11 @@
 * 前端主界面
 ![](https://github.com/assissionop/Volunteer-Library/raw/master/readme-picture/%E5%89%8D%E7%AB%AF%E4%B8%BB%E7%95%8C%E9%9D%A2.png)
 * 登录模块(AJAX技术)
-![](https://github.com/assissionop/Volunteer-Library/blob/master/readme-picture/%E7%99%BB%E5%BD%95%E6%A8%A1%E5%9D%97AJAX%E6%8A%80%E6%9C%AF.png)
+![](https://github.com/assissionop/Volunteer-Library/raw/master/readme-picture/%E7%99%BB%E5%BD%95%E6%A8%A1%E5%9D%97AJAX%E6%8A%80%E6%9C%AF.png)
 * 系统结构
-![](https://github.com/assissionop/Volunteer-Library/blob/master/readme-picture/%E7%BB%93%E6%9E%84.png)
+![](https://github.com/assissionop/Volunteer-Library/raw/master/readme-picture/%E7%BB%93%E6%9E%84.png)
 * 数据库模块设计
-![](https://github.com/assissionop/Volunteer-Library/blob/master/readme-picture/%E6%95%B0%E6%8D%AE%E5%BA%93%E6%A8%A1%E5%9D%97%E8%AE%BE%E8%AE%A1.png)
+![](https://github.com/assissionop/Volunteer-Library/raw/master/readme-picture/%E6%95%B0%E6%8D%AE%E5%BA%93%E6%A8%A1%E5%9D%97%E8%AE%BE%E8%AE%A1.png)
 
 ### 其他
 如果有什么疑问欢迎发邮件到 ass-op@qq.com 咨询

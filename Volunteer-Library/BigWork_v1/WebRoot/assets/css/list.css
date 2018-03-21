@@ -1,0 +1,68 @@
+@charset "utf-8";
+/* CSS Document */
+.tabtop13 {
+    margin-top: 13px;
+}
+.tabtop13 td{
+    background-color:#ffffff;
+    height:25px;
+    line-height:150%;
+}
+.font-center{ text-align:center}
+.btbg{background:#e9faff !important;}
+.btbg1{background:#f2fbfe !important;}
+.btbg2{background:#255e95 !important;}
+.btbg3{background:#fff !important;}
+.biaoti{
+    font-family: 微软雅黑;
+    font-size: 26px;
+    font-weight: bold;
+    border-bottom:1px solid #CCCCCC;
+    color: #255e95;
+}
+.titfont {
+
+    font-family: 微软雅黑;
+    font-size: 16px;
+    font-weight: bold;
+    color: #255e95;
+    background-color:#e9faff;
+    border-bottom:1px dashed #CCCCCC;
+}
+.tabtxt2 {
+    font-family: 微软雅黑;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: right;
+    padding-right: 10px;
+    color:#327cd1;
+}
+.tabtxt3 {
+    font-family: 微软雅黑;
+    font-size: 14px;
+    padding-left: 15px;
+    color: #000;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    line-height: 20px;
+}
+.btn
+{
+    display:block;
+    width:120px;
+    text-align:center;
+    position:relative;
+    background-color: #255e95;
+    font-family: 微软雅黑;
+    color: #fff;
+
+}
+.btn2
+{
+    display:block;
+    width:5px;
+    position:relative;
+    background-color: #255e95;
+    font-family: 微软雅黑;
+    color: #fff;
+}

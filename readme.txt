@@ -1,0 +1,2 @@
+要先在mysql中创建数据库account
+再导入account.sql脚本
